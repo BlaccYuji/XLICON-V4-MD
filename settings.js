@@ -39,24 +39,24 @@ const fs = require('fs');
 const chalk = require('chalk');
 
 //owmner v card
-global.ytname = "YT: S4 SALMAN YT" //ur yt chanel name
-global.socialm = "GitHub: salmanytofficial" //ur github or insta name
-global.location = "Pakistan, Lahore, Sabzazar" //ur location
+global.ytname = "YT: blacyuji" //ur yt chanel name
+global.socialm = "GitHub: BlaccYuji" //ur github or insta name
+global.location = "Lagos, Nigeria" //ur location
 
 //new
 global.botname = 'XLICON-V4-MD' //ur bot name
-global.ownernumber = ['923184070915'] //ur owner number, dont add more than one
-global.ownername = '𝙎𝙖𝙡𝙢𝙖𝙣 𝘼𝙝𝙢𝙖𝙙' //ur owner name
-global.websitex = "https://youtube.com/@s4salmanyt"
-global.wagc = "https://whatsapp.com/channel/0029VaINgEZK0IBaK1nDtE3f"
+global.ownernumber = ['2348153995521'] //ur owner number, dont add more than one
+global.ownername = 'BlacYuji🦘' //ur owner name
+global.websitex = "https://chat.whatsapp.com/Dk5mQ2e3LcBAYf75Q9VXcA"
+global.wagc = "https://chat.whatsapp.com/Dk5mQ2e3LcBAYf75Q9VXcA"
 global.themeemoji = '⛩'
-global.wm = "Xlicon Bot Inc."
-global.botscript = 'https://github.com/salmanytofficial/XLICON-V4-MD' //script link
-global.packname = "𝘼𝙃𝙃𝙈𝙄 𝙆𝙐𝙉"
-global.author = "MΛDΣ BY 𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿"
-global.creator = "923184070915@s.whatsapp.net"
+global.wm = "Jiπx Inc."
+global.botscript = 'https://github.com/BlaccYuji/XLICON-V4-MD' //script link
+global.packname = "Jiπx"
+global.author = "🔫"
+global.creator = "2348153995521@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["923184070915"] // Premium User
+global.premium = ["2348153995521"] // Premium User
 
 //bot sett
 global.typemenu = 'v12' // menu type 'v1' => 'v12'
